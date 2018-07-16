@@ -175,7 +175,8 @@ input[type=submit]:hover {
 }
 
 .fbox1 {
-    background-image: url(../media/IMG_8018.jpg);
+    background-image: url(../media/ffWordGame.png);
+    background-position: center;
 }
 
 .fbox2 {
