@@ -180,11 +180,13 @@ input[type=submit]:hover {
 }
 
 .fbox2 {
-    background-image: url(../media/IMG_8052.jpg);
+    background-image: url(../media//ffrpg.png);
+    background-position: center;
 }
 
 .fbox3 {
-    background-image: url(../media/IMG_8213.jpg);
+    background-image: url(../media/rickandmortytrivia.png);
+    background-position: center;
 }
 
 .fbox4 {
