@@ -190,7 +190,9 @@ input[type=submit]:hover {
 }
 
 .fbox4 {
-    background-image: url(../media/IMG_8256.jpg);
+    background-image: url(../media/GiphyGifSearch.png);
+    background-position: center;
+
 }
 
 .fbox5 {
