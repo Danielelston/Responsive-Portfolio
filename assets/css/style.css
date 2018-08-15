@@ -196,7 +196,8 @@ input[type=submit]:hover {
 }
 
 .fbox5 {
-    background-image: url(../media/IMG_8300.jpg);
+    background-image: url(../media/TrainSchelduleApp.png);
+    background-position: center;
 }
 
 .fbox6 {
